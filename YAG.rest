@@ -1,0 +1,28 @@
+@url = http://localhost:5000
+
+###
+GET {{url}}/orders-service
+
+###
+GET {{url}}/orders-service/orders
+
+###
+GET {{url}}/orders-service/orders/1
+
+###
+GET {{url}}/products-service
+
+###
+GET {{url}}/products-service/products
+
+###
+GET {{url}}/products-service/products/1
+
+###
+GET {{url}}/users-service
+
+###
+GET {{url}}/users-service/users
+
+###
+GET {{url}}/users-service/users/1
