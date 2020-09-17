@@ -4,4 +4,8 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\YAG.Shared\YAG.Shared.csproj" />
+    </ItemGroup>
+
 </Project>

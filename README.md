@@ -6,3 +6,4 @@ Sample API Gateway project based on [YARP](https://github.com/microsoft/reverse-
 Check out the following blog post series to find out more:
 
 - https://devmentors.io/blog/yag-yet-another-gateway-with-yarp (introduction)
+- https://devmentors.io/blog/yag-integration-with-rabbitmq (RabbitMQ integration)

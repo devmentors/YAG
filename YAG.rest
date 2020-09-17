@@ -10,6 +10,19 @@ GET {{url}}/orders-service/orders
 GET {{url}}/orders-service/orders/1
 
 ###
+POST {{url}}/orders-service/orders
+Content-Type: application/json
+
+###
+POST {{url}}/orders/send
+Content-Type: application/json
+
+{
+  "orderId": 1,
+  "notes": "Order notes"
+}
+
+###
 GET {{url}}/products-service
 
 ###
